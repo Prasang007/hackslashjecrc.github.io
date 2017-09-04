@@ -1,48 +1,5 @@
 -
-  id: 3
-  name: "Himanshu"
-  surname: "Dixit"
-  title: "Chief Manager"
-  thumbnailUrl: hdixit.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    - {name: "website", link: "https://www.himanshudixit.me"}
-    - {name: "twitter", link: "https://twitter.com/himanshu_dix"}
-    - {name: "github", link: "https://github.com/himanshu-dixit"}
-    - {name: "site", link: "https://www.himanshudixit.me"}
-    - {name: "facebook", link: "https://www.facebook.com/denhimanshu"}
-
--
-  id: 4
-  name: "Asmita"
-  surname: " Goswami"
-  title: "Designer and Web Developer"
-  thumbnailUrl: asmigos.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    - {name: "website", link: "https://asmitajaipur.wixsite.com/asmitagoswami"}
-    - {name: "github", link: "https://github.com/asmigos"}
-    - {name: "facebook", link: "https://www.facebook.com/asmita.goswami.1"}
-
--
-  id: 5
-  name: "Lokesh"
-  surname: " Soni"
-  title: "Senior Project Manager"
-  thumbnailUrl: lukiee.jpeg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    - {name: "github", link: "https://github.com/Lukiee555"}
-    - {name: "facebook", link: "https://www.facebook.com/lokesh.soni.35325"}
-
--
-  id: 6
+  id: 0
   name: "Aakanksha"
   surname: " Jain"
   title: "Community Relations and Social Media Handler"
@@ -53,29 +10,6 @@
     - {name: "twitter", link: "https://twitter.com/jaakanksha8"}
     - {name: "github", link: "https://github.com/accakks"}
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100011002657882"}
--
-  id: 4
-  name: "Shiv"
-  surname: " Soni"
-  title: "Team Member"
-  thumbnailUrl: shiv.jpg
-  subTeam: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/ShivSoni05"}
-    - {name: "github", link: "https://github.com/ShivSoni5"}
-    - {name: "facebook", link: "https://www.facebook.com/ShivSoni05"}
-
--
-  id: 0
-  name: "Aditya"
-  surname: "Kaushik"
-  title: "Team Member"
-  thumbnailUrl: aditya98ak.jpg
-  subTeam: true
-  social:
-    - {name: "github", link: "https://github.com/aditya98ak"}
-    - {name: "facebook", link: "https://www.facebook.com/AdityaKaushik001"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/adityakaushik01"}
 
 -
   id: 1
@@ -91,7 +25,19 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/aditya-agarwal-7aba26143"}
 
 -
-  id: 7
+  id: 2
+  name: "Aditya"
+  surname: "Kaushik"
+  title: "Team Member"
+  thumbnailUrl: aditya98ak.jpg
+  subTeam: true
+  social:
+    - {name: "github", link: "https://github.com/aditya98ak"}
+    - {name: "facebook", link: "https://www.facebook.com/AdityaKaushik001"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/adityakaushik01"}
+
+-
+  id: 3
   name: "Akash"
   surname: "Lakhera"
   title: "Team Member"
@@ -103,7 +49,7 @@
     - {name: "facebook", link: "https://www.facebook.com/akashlakhera05"}
 
 -
-  id: 8
+  id: 4
   name: "Amrit"
   surname: " Srivastava"
   title: "Team Member"
@@ -114,7 +60,7 @@
     - {name: "github", link: "https://github.com/amritsrivastava"}
     - {name: "facebook", link: "https://www.facebook.com/amrit.srivastava.946"}
 -
-  id: 9
+  id: 5
   name: "Anushree"
   surname: " Sharma"
   title: "Team Member"
@@ -124,5 +70,56 @@
     - {name: "twitter", link: "https://twitter.com/ Anushree816"}
     - {name: "github", link: "https://github.com/anushree816"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/anushree-sharma-b62a9b149"}
-    
+-
+  id: 6
+  name: "Asmita"
+  surname: " Goswami"
+  title: "Designer and Web Developer"
+  thumbnailUrl: asmigos.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "website", link: "https://asmitajaipur.wixsite.com/asmitagoswami"}
+    - {name: "github", link: "https://github.com/asmigos"}
+    - {name: "facebook", link: "https://www.facebook.com/asmita.goswami.1"}
 
+-
+  id: 7
+  name: "Lokesh"
+  surname: " Soni"
+  title: "Senior Project Manager"
+  thumbnailUrl: lukiee.jpeg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "github", link: "https://github.com/Lukiee555"}
+    - {name: "facebook", link: "https://www.facebook.com/lokesh.soni.35325"}
+
+-
+  id: 8
+  name: "Himanshu"
+  surname: "Dixit"
+  title: "Chief Manager"
+  thumbnailUrl: hdixit.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "website", link: "https://www.himanshudixit.me"}
+    - {name: "twitter", link: "https://twitter.com/himanshu_dix"}
+    - {name: "github", link: "https://github.com/himanshu-dixit"}
+    - {name: "site", link: "https://www.himanshudixit.me"}
+    - {name: "facebook", link: "https://www.facebook.com/denhimanshu"}
+-
+  id: 9
+  name: "Shiv"
+  surname: " Soni"
+  title: "Team Member"
+  thumbnailUrl: shiv.jpg
+  subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ShivSoni05"}
+    - {name: "github", link: "https://github.com/ShivSoni5"}
+    - {name: "facebook", link: "https://www.facebook.com/ShivSoni05"}
