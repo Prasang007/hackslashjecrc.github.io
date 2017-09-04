@@ -89,7 +89,7 @@
   surname: "Khemchandani"
   title: "Team Member"
   thumbnailUrl: jk.jpg
-  team: true
+  subteam: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
