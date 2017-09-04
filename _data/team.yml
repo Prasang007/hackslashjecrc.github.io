@@ -97,9 +97,7 @@
   surname: " Soni"
   title: "Senior Project Manager"
   thumbnailUrl: lukiee.jpeg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
+  subTeam: true
   social:
     - {name: "github", link: "https://github.com/Lukiee555"}
     - {name: "facebook", link: "https://www.facebook.com/lokesh.soni.35325"}
