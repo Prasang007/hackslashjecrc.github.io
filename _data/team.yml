@@ -70,8 +70,19 @@
     - {name: "twitter", link: "https://twitter.com/ Anushree816"}
     - {name: "github", link: "https://github.com/anushree816"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/anushree-sharma-b62a9b149"}
+
 -
   id: 6
+  name: "Arpit"
+  surname: "Jain"
+  title: "Team Mamber"
+  thumbnailUrl: arpit.jpg
+  subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/arpit0151"}
+    - {name: "github", link: "https://github.com/maiarpitjain"} 
+-
+  id: 7
   name: "Asmita"
   surname: " Goswami"
   title: "Designer and Web Developer"
@@ -82,7 +93,7 @@
     - {name: "github", link: "https://github.com/asmigos"}
     - {name: "facebook", link: "https://www.facebook.com/asmita.goswami.1"}
 -
-  id: 7
+  id: 8
   name: "Jatin"
   surname: "Khemchandani"
   title: "Team Member"
@@ -92,7 +103,7 @@
     - {name: "github", link: "https://github.com/kj5699"}
     - {name: "facebook", link: "https://www.facebook.com/jatin.khemchandani"}
 -
-  id: 8
+  id: 9
   name: "Lokesh"
   surname: " Soni"
   title: "Senior Project Manager"
@@ -103,7 +114,7 @@
     - {name: "facebook", link: "https://www.facebook.com/lokesh.soni.35325"}
 
 -
-  id: 9
+  id: 10
   name: "Himanshu"
   surname: "Dixit"
   title: "Chief Manager"
@@ -117,7 +128,7 @@
     - {name: "facebook", link: "https://www.facebook.com/denhimanshu"}
 
 -
-  id: 10
+  id: 11
   name: "Yukti"
   surname: " Goswami"
   title: "Team Member"
