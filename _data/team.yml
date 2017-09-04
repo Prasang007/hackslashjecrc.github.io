@@ -83,9 +83,20 @@
     - {name: "website", link: "https://asmitajaipur.wixsite.com/asmitagoswami"}
     - {name: "github", link: "https://github.com/asmigos"}
     - {name: "facebook", link: "https://www.facebook.com/asmita.goswami.1"}
-
 -
   id: 7
+  name: "Jatin"
+  surname: "Khemchandani"
+  title: "Team Member
+  thumbnailUrl:jk.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "github", link: "https://github.com/kj5699"}
+    - {name: "facebook", link: "https://www.facebook.com/jatin.khemchandani"}
+-
+  id: 8
   name: "Lokesh"
   surname: " Soni"
   title: "Senior Project Manager"
@@ -98,7 +109,7 @@
     - {name: "facebook", link: "https://www.facebook.com/lokesh.soni.35325"}
 
 -
-  id: 8
+  id: 9
   name: "Himanshu"
   surname: "Dixit"
   title: "Chief Manager"
@@ -113,7 +124,7 @@
     - {name: "site", link: "https://www.himanshudixit.me"}
     - {name: "facebook", link: "https://www.facebook.com/denhimanshu"}
 -
-  id: 9
+  id: 10
   name: "Shiv"
   surname: " Soni"
   title: "Team Member"
@@ -123,3 +134,14 @@
     - {name: "twitter", link: "https://twitter.com/ShivSoni05"}
     - {name: "github", link: "https://github.com/ShivSoni5"}
     - {name: "facebook", link: "https://www.facebook.com/ShivSoni05"}
+
+-
+  id: 11
+  name: "Yukti"
+  surname: " Goswami"
+  title: "Team Member"
+  thumbnailUrl: yukti.jpg
+  subTeam: true
+  social:
+    - {name: "github", link: "https://github.com/ukigos"}
+    - {name: "facebook", link: "https://www.facebook.com/Yuktigos"}
