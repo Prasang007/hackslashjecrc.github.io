@@ -87,8 +87,8 @@
   id: 7
   name: "Jatin"
   surname: "Khemchandani"
-  title: "Team Member
-  thumbnailUrl:jk.jpg
+  title: "Team Member"
+  thumbnailUrl: jk.jpg
   team: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
