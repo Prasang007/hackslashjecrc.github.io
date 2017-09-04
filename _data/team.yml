@@ -90,8 +90,6 @@
   title: "Team Member"
   thumbnailUrl: jk.jpg
   subteam: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "github", link: "https://github.com/kj5699"}
     - {name: "facebook", link: "https://www.facebook.com/jatin.khemchandani"}
