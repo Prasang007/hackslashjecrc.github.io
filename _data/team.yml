@@ -76,9 +76,7 @@
   surname: " Goswami"
   title: "Designer and Web Developer"
   thumbnailUrl: asmigos.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
+  subTeam: true
   social:
     - {name: "website", link: "https://asmitajaipur.wixsite.com/asmitagoswami"}
     - {name: "github", link: "https://github.com/asmigos"}
@@ -112,29 +110,16 @@
   surname: "Dixit"
   title: "Chief Manager"
   thumbnailUrl: hdixit.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
+  subTeam: true
   social:
     - {name: "website", link: "https://www.himanshudixit.me"}
     - {name: "twitter", link: "https://twitter.com/himanshu_dix"}
     - {name: "github", link: "https://github.com/himanshu-dixit"}
     - {name: "site", link: "https://www.himanshudixit.me"}
     - {name: "facebook", link: "https://www.facebook.com/denhimanshu"}
--
-  id: 10
-  name: "Shiv"
-  surname: " Soni"
-  title: "Team Member"
-  thumbnailUrl: shiv.jpg
-  subTeam: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/ShivSoni05"}
-    - {name: "github", link: "https://github.com/ShivSoni5"}
-    - {name: "facebook", link: "https://www.facebook.com/ShivSoni05"}
 
 -
-  id: 11
+  id: 10
   name: "Yukti"
   surname: " Goswami"
   title: "Team Member"
