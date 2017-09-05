@@ -86,7 +86,7 @@
     - {name: "github", link: "https://github.com/anushree816"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/anushree-sharma-b62a9b149"}
  
- -
+-
   id: Arpit
   name: "Arpit"
   surname: "Jain"
@@ -120,6 +120,7 @@
   social:
     - {name: "github", link: "https://github.com/atavishekhawat"}
     - {name: "facebook", link: "https://www.facebook.com/atavishekhawat"}
+
 -
   id: Himanshu
   name: "Himanshu"
@@ -133,6 +134,7 @@
     - {name: "github", link: "https://github.com/himanshu-dixit"}
     - {name: "site", link: "https://www.himanshudixit.me"}
     - {name: "facebook", link: "https://www.facebook.com/denhimanshu"}
+
 -
   id: Jatin
   name: "Jatin"
