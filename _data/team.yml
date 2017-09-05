@@ -75,13 +75,15 @@
   id: 6
   name: "Arpit"
   surname: "Jain"
-  title: "Team Mamber"
+  title: "Team Member"
   thumbnailUrl: arpit.jpg
   subTeam: true
   social:
     - {name: "twitter", link: "https://twitter.com/arpit0151"}
-    - {name: "github", link: "https://github.com/maiarpitjain"} 
--
+    - {name: "github", link: "https://github.com/maiarpitjain"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/arpit-jain-87a1a1135/"}
+    - {name: "facebook", link: "https://www.facebook.com/maiarpitjain94"}
+
   id: 7
   name: "Asmita"
   surname: " Goswami"
