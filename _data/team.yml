@@ -49,7 +49,7 @@
     - {name: "github", link: "https://github.com/akashlakhera"}
     - {name: "facebook", link: "https://www.facebook.com/akashlakhera05"}
  
- -
+-
   id: Akashay
   name: "Akashay"
   surname: "Sharma"
@@ -168,7 +168,6 @@
     - {name: "twitter", link: "https://twitter.com/samyak360_jain"}
     - {name: "github", link: "https://github.com/samyak360"} 
     - {name: "facebook", link: "https://www.facebook.com/ samyak360"}
-
 -
   id: Yukti
   name: "Yukti"
