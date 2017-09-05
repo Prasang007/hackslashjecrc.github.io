@@ -94,6 +94,16 @@
     - {name: "facebook", link: "https://www.facebook.com/asmita.goswami.1"}
 -
   id: 8
+  name: "Atavi"
+  surname: " Shekhawat"
+  title: "Team Member"
+  thumbnailUrl: atavi.jpeg
+  subTeam: true
+  social:
+    - {name: "github", link: "https://github.com/atavishekhawat"}
+    - {name: "facebook", link: "https://www.facebook.com/atavishekhawat"}
+-
+  id: 9
   name: "Jatin"
   surname: "Khemchandani"
   title: "Team Member"
@@ -103,7 +113,7 @@
     - {name: "github", link: "https://github.com/kj5699"}
     - {name: "facebook", link: "https://www.facebook.com/jatin.khemchandani"}
 -
-  id: 9
+  id: 10
   name: "Lokesh"
   surname: " Soni"
   title: "Senior Project Manager"
@@ -114,7 +124,7 @@
     - {name: "facebook", link: "https://www.facebook.com/lokesh.soni.35325"}
 
 -
-  id: 10
+  id: 11
   name: "Himanshu"
   surname: "Dixit"
   title: "Chief Manager"
@@ -128,7 +138,7 @@
     - {name: "facebook", link: "https://www.facebook.com/denhimanshu"}
 
 -
-  id: 11
+  id: 12
   name: "Yukti"
   surname: " Goswami"
   title: "Team Member"
