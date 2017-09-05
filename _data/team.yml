@@ -54,7 +54,7 @@
   name: "Akashay"
   surname: "Sharma"
   title: "Team Member"
-  thumbnailUrl: Akshay01.jpg
+  thumbnailUrl: Akshay01.jpeg
   subTeam: true
   social: 
     - {name: "github", link: "https://github.com/akshaysharma2277"}
