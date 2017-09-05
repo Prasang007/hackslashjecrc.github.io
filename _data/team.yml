@@ -1,5 +1,5 @@
 -
-  id: 0
+  id: Aakanksha
   name: "Aakanksha"
   surname: " Jain"
   title: "Community Relations and Social Media Handler"
@@ -13,7 +13,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/jaakanksha8/"}
 
 -
-  id: 1
+  id: Aditya
   name: "Aditya"
   surname: " Agarwal"
   title: "Team Member"
@@ -26,7 +26,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/aditya-agarwal-7aba26143"}
 
 -
-  id: 2
+  id: AdityaK
   name: "Aditya"
   surname: "Kaushik"
   title: "Team Member"
@@ -38,7 +38,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/adityakaushik01"}
 
 -
-  id: 3
+  id: Akash
   name: "Akash"
   surname: "Lakhera"
   title: "Team Member"
@@ -50,7 +50,7 @@
     - {name: "facebook", link: "https://www.facebook.com/akashlakhera05"}
 
 -
-  id: 4
+  id: Amrit
   name: "Amrit"
   surname: " Srivastava"
   title: "Team Member"
@@ -61,7 +61,7 @@
     - {name: "github", link: "https://github.com/amritsrivastava"}
     - {name: "facebook", link: "https://www.facebook.com/amrit.srivastava.946"}
 -
-  id: 5
+  id: Anushree
   name: "Anushree"
   surname: " Sharma"
   title: "Team Member"
@@ -73,7 +73,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/anushree-sharma-b62a9b149"}
 
 -
-  id: 6
+  id: Arpit
   name: "Arpit"
   surname: "Jain"
   title: "Team Member"
@@ -85,7 +85,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/arpit-jain-87a1a1135/"}
     - {name: "facebook", link: "https://www.facebook.com/maiarpitjain94"}
 -
-  id: 7
+  id: Asmita
   name: "Asmita"
   surname: " Goswami"
   title: "Designer and Web Developer"
@@ -96,7 +96,7 @@
     - {name: "github", link: "https://github.com/asmigos"}
     - {name: "facebook", link: "https://www.facebook.com/asmita.goswami.1"}
 -
-  id: 8
+  id: Atavi
   name: "Atavi"
   surname: " Shekhawat"
   title: "Team Member"
@@ -106,7 +106,7 @@
     - {name: "github", link: "https://github.com/atavishekhawat"}
     - {name: "facebook", link: "https://www.facebook.com/atavishekhawat"}
 -
-  id: 9
+  id: Jatin
   name: "Jatin"
   surname: "Khemchandani"
   title: "Team Member"
@@ -116,7 +116,7 @@
     - {name: "github", link: "https://github.com/kj5699"}
     - {name: "facebook", link: "https://www.facebook.com/jatin.khemchandani"}
 -
-  id: 10
+  id: Lokesh
   name: "Lokesh"
   surname: " Soni"
   title: "Senior Project Manager"
@@ -127,7 +127,7 @@
     - {name: "facebook", link: "https://www.facebook.com/lokesh.soni.35325"}
 
 -
-  id: 11
+  id: Himanshu
   name: "Himanshu"
   surname: "Dixit"
   title: "Chief Manager"
@@ -141,7 +141,7 @@
     - {name: "facebook", link: "https://www.facebook.com/denhimanshu"}
 
 -
-  id: 12
+  id: Yukti
   name: "Yukti"
   surname: " Goswami"
   title: "Team Member"
