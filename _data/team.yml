@@ -48,6 +48,18 @@
     - {name: "twitter", link: "https://twitter.com/akashlakhera05"}
     - {name: "github", link: "https://github.com/akashlakhera"}
     - {name: "facebook", link: "https://www.facebook.com/akashlakhera05"}
+ 
+ -
+  id: Akashay
+  name: "Akashay"
+  surname: "Sharma"
+  title: "Team Member"
+  thumbnailUrl: Akshay01.jpg
+  subTeam: true
+  social: 
+    - {name: "github", link: "https://github.com/akshaysharma2277"}
+    - {name: "facebook", link: "https://www.facebook.com/asharma2277"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/asharma2277"}
 
 -
   id: Amrit
@@ -106,6 +118,19 @@
     - {name: "github", link: "https://github.com/atavishekhawat"}
     - {name: "facebook", link: "https://www.facebook.com/atavishekhawat"}
 -
+  id: Himanshu
+  name: "Himanshu"
+  surname: "Dixit"
+  title: "Chief Manager"
+  thumbnailUrl: hdixit.jpg
+  subTeam: true
+  social:
+    - {name: "website", link: "https://www.himanshudixit.me"}
+    - {name: "twitter", link: "https://twitter.com/himanshu_dix"}
+    - {name: "github", link: "https://github.com/himanshu-dixit"}
+    - {name: "site", link: "https://www.himanshudixit.me"}
+    - {name: "facebook", link: "https://www.facebook.com/denhimanshu"}
+-
   id: Jatin
   name: "Jatin"
   surname: "Khemchandani"
@@ -125,21 +150,17 @@
   social:
     - {name: "github", link: "https://github.com/Lukiee555"}
     - {name: "facebook", link: "https://www.facebook.com/lokesh.soni.35325"}
-
 -
-  id: Himanshu
-  name: "Himanshu"
-  surname: "Dixit"
-  title: "Chief Manager"
-  thumbnailUrl: hdixit.jpg
+  id: Samyak
+  name: "Samyak"
+  surname: "Jain"
+  title: "Team Member"
+  thumbnailUrl: samyak.jpg
   subTeam: true
   social:
-    - {name: "website", link: "https://www.himanshudixit.me"}
-    - {name: "twitter", link: "https://twitter.com/himanshu_dix"}
-    - {name: "github", link: "https://github.com/himanshu-dixit"}
-    - {name: "site", link: "https://www.himanshudixit.me"}
-    - {name: "facebook", link: "https://www.facebook.com/denhimanshu"}
-
+    - {name: "twitter", link: "https://twitter.com/samyak360_jain"}
+    - {name: "github", link: "https://github.com/samyak360"} 
+    - {name: "facebook", link: "https://www.facebook.com/ samyak360"}
 -
   id: Yukti
   name: "Yukti"
