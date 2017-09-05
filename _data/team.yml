@@ -73,6 +73,7 @@
     - {name: "github", link: "https://github.com/amritsrivastava"}
     - {name: "facebook", link: "https://www.facebook.com/amrit.srivastava.946"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/amrit-srivastava-a8760412a"}
+
 -
   id: Anushree
   name: "Anushree"
@@ -84,7 +85,8 @@
     - {name: "twitter", link: "https://twitter.com/ Anushree816"}
     - {name: "github", link: "https://github.com/anushree816"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/anushree-sharma-b62a9b149"}
--
+ 
+ -
   id: Arpit
   name: "Arpit"
   surname: "Jain"
@@ -96,6 +98,7 @@
     - {name: "github", link: "https://github.com/maiarpitjain"}
     - {name: "facebook", link: "https://www.facebook.com/maiarpitjain94"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/arpit-jain-87a1a1135/"}
+
 -
   id: Asmita
   name: "Asmita"
@@ -140,6 +143,7 @@
   social:
     - {name: "github", link: "https://github.com/kj5699"}
     - {name: "facebook", link: "https://www.facebook.com/jatin.khemchandani"}
+
 -
   id: Lokesh
   name: "Lokesh"
@@ -150,6 +154,7 @@
   social:
     - {name: "github", link: "https://github.com/Lukiee555"}
     - {name: "facebook", link: "https://www.facebook.com/lokesh.soni.35325"}
+
 -
   id: Samyak
   name: "Samyak"
@@ -161,6 +166,7 @@
     - {name: "twitter", link: "https://twitter.com/samyak360_jain"}
     - {name: "github", link: "https://github.com/samyak360"} 
     - {name: "facebook", link: "https://www.facebook.com/ samyak360"}
+
 -
   id: Yukti
   name: "Yukti"
