@@ -129,7 +129,6 @@
   thumbnailUrl: hdixit.jpg
   subTeam: true
   social:
-    - {name: "website", link: "https://www.himanshudixit.me"}
     - {name: "twitter", link: "https://twitter.com/himanshu_dix"}
     - {name: "github", link: "https://github.com/himanshu-dixit"}
     - {name: "site", link: "https://www.himanshudixit.me"}
