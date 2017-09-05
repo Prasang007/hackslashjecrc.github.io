@@ -97,7 +97,7 @@
   name: "Atavi"
   surname: " Shekhawat"
   title: "Team Member"
-  thumbnailUrl: atavi.jpeg
+  thumbnailUrl: atavi.jpg
   subTeam: true
   social:
     - {name: "github", link: "https://github.com/atavishekhawat"}
