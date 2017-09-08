@@ -1,60 +1,178 @@
 -
-  id: 0
+  id: Aakanksha
+  name: "Aakanksha"
+  surname: " Jain"
+  title: "Community Relations and Social Media Handler"
+  thumbnailUrl: akku.jpeg
+  subTeam: true
+  social:
+    
+    - {name: "twitter", link: "https://twitter.com/jaakanksha8"}
+    - {name: "github", link: "https://github.com/accakks"}
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100011002657882"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jaakanksha8/"}
+
+-
+  id: Aditya
+  name: "Aditya"
+  surname: " Agarwal"
+  title: "Team Member"
+  thumbnailUrl: adityaagarwal.jpg
+  subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/aditya39ps"}
+    - {name: "github", link: "https://github.com/aditya81070"}
+    - {name: "facebook", link: "https://www.facebook.com/aditya39ps"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/aditya-agarwal-7aba26143"}
+
+-
+  id: AdityaK
+  name: "Aditya"
+  surname: "Kaushik"
+  title: "Team Member"
+  thumbnailUrl: aditya98ak.jpg
+  subTeam: true
+  social:
+    - {name: "github", link: "https://github.com/aditya98ak"}
+    - {name: "facebook", link: "https://www.facebook.com/AdityaKaushik001"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/adityakaushik01"}
+
+-
+  id: Akash
+  name: "Akash"
+  surname: "Lakhera"
+  title: "Team Member"
+  thumbnailUrl: alex.jpg
+  subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/akashlakhera05"}
+    - {name: "github", link: "https://github.com/akashlakhera"}
+    - {name: "facebook", link: "https://www.facebook.com/akashlakhera05"}
+ 
+-
+  id: Akshay
+  name: "Akshay"
+  surname: "Sharma"
+  title: "Team Member"
+  thumbnailUrl: Akshay01.jpeg
+  subTeam: true
+  social: 
+    - {name: "github", link: "https://github.com/akshaysharma2277"}
+    - {name: "facebook", link: "https://www.facebook.com/asharma2277"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/asharma2277"}
+
+-
+  id: Amrit
+  name: "Amrit"
+  surname: " Srivastava"
+  title: "Team Member"
+  thumbnailUrl: amrit.jpg
+  subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/amritamrit1999"}
+    - {name: "github", link: "https://github.com/amritsrivastava"}
+    - {name: "facebook", link: "https://www.facebook.com/amrit.srivastava.946"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/amrit-srivastava-a8760412a"}
+
+-
+  id: Anushree
+  name: "Anushree"
+  surname: " Sharma"
+  title: "Team Member"
+  thumbnailUrl: anushree.jpg
+  subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ Anushree816"}
+    - {name: "github", link: "https://github.com/anushree816"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/anushree-sharma-b62a9b149"}
+ 
+-
+  id: Arpit
+  name: "Arpit"
+  surname: "Jain"
+  title: "Team Member"
+  thumbnailUrl: arpit.jpg
+  subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/arpit0151"}
+    - {name: "github", link: "https://github.com/maiarpitjain"}
+    - {name: "facebook", link: "https://www.facebook.com/maiarpitjain94"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/arpit-jain-87a1a1135/"}
+
+-
+  id: Asmita
+  name: "Asmita"
+  surname: " Goswami"
+  title: "Designer and Web Developer"
+  thumbnailUrl: asmigos.jpg
+  subTeam: true
+  social:
+    - {name: "website", link: "https://asmitajaipur.wixsite.com/asmitagoswami"}
+    - {name: "github", link: "https://github.com/asmigos"}
+    - {name: "facebook", link: "https://www.facebook.com/asmita.goswami.1"}
+-
+  id: Atavi
+  name: "Atavi"
+  surname: " Shekhawat"
+  title: "Team Member"
+  thumbnailUrl: atavi.jpg
+  subTeam: true
+  social:
+    - {name: "github", link: "https://github.com/atavishekhawat"}
+    - {name: "facebook", link: "https://www.facebook.com/atavishekhawat"}
+
+-
+  id: Himanshu
   name: "Himanshu"
   surname: "Dixit"
   title: "Chief Manager"
   thumbnailUrl: hdixit.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
+  subTeam: true
   social:
-    - {name: "website", link: "https://www.himanshudixit.me"}
     - {name: "twitter", link: "https://twitter.com/himanshu_dix"}
     - {name: "github", link: "https://github.com/himanshu-dixit"}
     - {name: "site", link: "https://www.himanshudixit.me"}
+    - {name: "facebook", link: "https://www.facebook.com/denhimanshu"}
 -
-  id: 1
-  name: "Asmita"
-  surname: "Goswami"
-  title: "Designer and Web Developer"
-  thumbnailUrl: asmigos.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
+  id: Jatin
+  name: "Jatin"
+  surname: "Khemchandani"
+  title: "Team Member"
+  thumbnailUrl: jk.jpg
+  subTeam: true
   social:
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "github", link: "https://github.com/kj5699"}
+    - {name: "facebook", link: "https://www.facebook.com/jatin.khemchandani"}
+
 -
-  id: 2
+  id: Lokesh
   name: "Lokesh"
-  surname: "Soni"
+  surname: " Soni"
   title: "Senior Project Manager"
   thumbnailUrl: lukiee.jpeg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
--
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
   subTeam: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/Lukiee555"}
+    - {name: "facebook", link: "https://www.facebook.com/lokesh.soni.35325"}
+
 -
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
+  id: Samyak
+  name: "Samyak"
+  surname: "Jain"
+  title: "Team Member"
+  thumbnailUrl: samyak.jpg
   subTeam: true
   social:
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "twitter", link: "https://twitter.com/samyak360_jain"}
+    - {name: "github", link: "https://github.com/samyak360"} 
+    - {name: "facebook", link: "https://www.facebook.com/ samyak360"}
+-
+  id: Yukti
+  name: "Yukti"
+  surname: " Goswami"
+  title: "Team Member"
+  thumbnailUrl: yukti.jpg
+  subTeam: true
+  social:
+    - {name: "github", link: "https://github.com/ukigos"}
+    - {name: "facebook", link: "https://www.facebook.com/Yuktigos"}
