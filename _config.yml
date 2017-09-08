@@ -22,12 +22,12 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+#organizerName: "GDG Lviv"
+#organizerAlternateName: "Google Developer Group Lviv"
+#organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+#organizerEmail: "lviv@gdg.org.ua"
+#organizerLogo: "/img/seo/organizer-logo.png"
+#organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
@@ -49,8 +49,8 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
 bottomNavigationLinks:
  - {link: "https://hackslash.org", text: "Join hackslash"}
-rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+#rightNavigationButtons:
+ #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -172,24 +172,34 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+#- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+# - {link: "https://twitter.com/hackslashjecrc", icon: "twitter"}
+# - {link: "https://github.com/hackslashjecrc/hackslashjecrc.github.io/", icon: "github"}
+# - {link: "https://www.instagram.com/hackslashjecrc/", icon: "instagram"}
+# - {link: "https://www.facebook.com/hackslashjecrcc/", icon: "facebook"}
+twitter_username:     hackslashjecrc
+github_username:      hackslashjecrc/hackslashjecrc.github.io/
+instagram_username:    hackslashjecrc/
+#google_plus_username: AleksandarTodorovićr3bl
+facebook_username:    hackslashjecrcc/
+# - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
-  title: "Links"
-  links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+
+#  title: "Links"
+#  links:
+    
+#   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+#  - {link: "https://developers.google.com", text: "Hackslash"}
  -
+
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+    - {link: "hackslashcommunity@gmail.com", text: "Hackslash"}
  -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+#  title: "FAQ"
+#  links:
+#   - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
