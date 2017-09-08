@@ -1,7 +1,7 @@
 # Plugins
 gems:
 - jekyll-sitemap
-safe: trie
+safe: true
 
 # Build Settings
 markdown: kramdown
@@ -14,6 +14,7 @@ title: "HackSlash"
 email: "devfest@gdg.org.ua"
 description: "Hackslash is a community to bring all aspiring developer in JECRC together."
 baseurl: "/zeppelin"
+baseurl: ""
 url: "https://hackslashjecrc.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -200,7 +201,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "HACKSLASH is collective identity of a bunch of undergrads from JECRC Jaipur united by our love for programming. We believe in learning (by doing), sharing (our knowledge and skills as we learn) , contributing (open-source) and developing (our own projects). As common are our vision and interests, we/'re people with varying skills-sets and domains. Scroll through to know more about our recent activities and all the cool stuff we do!"
+aboutUs: "HACKSLASH is collective identity of a bunch of undergrads from JECRC Jaipur united by our love for programming. We believe in learning (by doing), sharing (our knowledge and skills as we learn) , contributing (open-source) and developing (our own projects). As common are our vision and interests, we're people with varying skills-sets and domains. Scroll through to know more about our recent activities and all the cool stuff we do!"
 directionDetailsWideCards:
  -
   title: "Questions?"
