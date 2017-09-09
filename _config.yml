@@ -11,9 +11,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "HackSlash"
-email: "devfest@gdg.org.ua"
+email: "hackslashcommunity@gmail.com"
 description: "Hackslash is a community to bring all aspiring developer in JECRC together."
-baseurl: "/zeppelin"
+baseurl: ""
 url: "https://hackslashjecrc.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -21,15 +21,15 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "HACKSLASH"
+organizerAlternateName: "HACKSLASH"
+organizerDescription: "Hackslash is a community to bring all aspiring developer in JECRC together."
+organizerEmail: "hackslashcommunity@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://hackslashjecrc.github.io"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, programming, android, developers, open-source"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/logo.png"
 socialImageSrcTwitter: "/img/seo/logo.png"
@@ -47,9 +47,9 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/team/", text: "Team"}
 bottomNavigationLinks:
- - {link: "https://hackslash.org", text: "Join hackslash"}
+ - {link: "https://join.slack.com/t/jecrccc/shared_invite/MjI5MDcwODEyNjEzLTE1MDMxNTA0NTUtZGUxNzZmOTUzYw", text: "Join Hackslash"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://join.slack.com/t/jecrccc/shared_invite/MjI5MDcwODEyNjEzLTE1MDMxNTA0NTUtZGUxNzZmOTUzYw", text: "Become a member"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -58,12 +58,13 @@ eventDate: ""
 typeoutTextValues: '" do Open Source", "do Competitive Programming", "share Ideas",'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Join Our Slack Channel"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://join.slack.com/t/jecrccc/shared_invite/MjI5MDcwODEyNjEzLTE1MDMxNTA0NTUtZGUxNzZmOTUzYw", text: "Join Our Slack Channel"}
+ - {link: "mailto:hackslashcommunity@gmail.com", text: "Questions? Reach Us Out"}
 
 # About Block
 aboutTitle: "About HackSlash"
 aboutBlock:
+
  - {title: "Open-Source", image: "open-source.png", text: "Open source software is software with source code that anyone can inspect, modify, and enhance." }
  - {title: "Competitive", image: "competitive.png", text: "Competitive programming is a mind sport usually held over the Internet or a local network, involving participants trying to program according to provided specifications. Contestants are referred to as sport programmers."}
  - {title: "Share-Ideas", image: "ideas.jpg", text: "Knowledge always multiply by sharing. We share ideas and concepts about different programming languages so that you learn something new everytime you give us a visit." }
@@ -113,8 +114,8 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "hackslash"
+twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000" #twitterFeed link
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -179,12 +180,14 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "https://github.com/hackslashjecrc/hackslashjecrc.github.io", text: "GitHub"}
+   - {link: "https://medium.com/hackslash", text: "Medium"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:hackslashcommunity@gmail.com", text: "hackslashcommunity@gmail.com"}
+   - {link: "https://join.slack.com/t/jecrccc/shared_invite/MjI5MDcwODEyNjEzLTE1MDMxNTA0NTUtZGUxNzZmOTUzYw", text: "Join Slack Channel"}
+
  -
   title: "FAQ"
   links:
@@ -200,7 +203,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "HACKSLASH is collective identity of a bunch of undergrads from JECRC Jaipur united by our love for programming. We believe in learning (by doing), sharing (our knowledge and skills as we learn) , contributing (open-source) and developing (our own projects). As common are our vision and interests, we/'re people with varying skills-sets and domains. Scroll through to know more about our recent activities and all the cool stuff we do!"
+aboutUs: "HACKSLASH is collective identity of a bunch of undergrads from JECRC Jaipur united by our love for <b>programming</b>.<br> We believe in learning (by doing), sharing (our knowledge and skills as we learn) , contributing (open-source) and developing (our own projects). <br>As common are our vision and interests, we're people with varying skills-sets and domains."
 directionDetailsWideCards:
  -
   title: "Questions?"
