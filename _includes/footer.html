@@ -22,8 +22,54 @@
 	<div class="row">
 		<div class="col-md-6 col-xs-12">
 			<ul class="social-links">
-				{% for social in site.socialLinks %}
-				<li>
+				{% if site.twitter_username %}
+  <li>
+    <a href="https://twitter.com/{{ site.twitter_username }}">
+      <i class="fa fa-twitter"></i> Twitter
+    </a>
+  </li>
+{% endif %}
+	{% if site.github_username %}
+  <li>
+    <a href="https://github.com/{{ site.github_username }}">
+      <i class="fa fa-github"></i> GitHub
+    </a>
+  </li>
+{% endif %}
+
+		<!--{% if site.linkedin_username %}
+  <li>
+    <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+      <i class="fa fa-linkedin"></i> LinkedIn
+    </a>
+  </li>
+{% endif %}-->
+			
+		<!--{% if site.google_plus_username %}
+  <li>
+    <a href="https://plus.google.com/{{ site.google_plus_username }}">
+      <i class="fa fa-google-plus"></i> Google+
+    </a>
+  </li>
+{% endif %}-->
+
+		{% if site.facebook_username %}
+  <li>
+    <a href="https://www.facebook.com/{{ site.facebook_username }}">
+      <i class="fa fa-facebook"></i> Facebook
+    </a>
+  </li>
+{% endif %}
+
+			{% if site.instagram_username %}
+  <li>
+    <a href="https://www.instagram.com/{{ site.instagram_username }}">
+      <i class="fa fa-instagram"></i> Instagram
+    </a>
+  </li>
+{% endif %}
+ 				{% for social in site.socialLinks %}
+				<li>					
 					<a href="{% if social.permalink != null %} {{ social.permalink | prepend: site.baseurl }} {% else %} {{ social.link }} {% endif %}" target="_blank">
 						<svg class="icon icon-{{ social.icon }}" viewBox="0 0 30 32">
 							<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social.icon }}"></use>
@@ -34,13 +80,13 @@
 			</ul>
 		</div>
 	</div>
-	<div class="row">
+	<!--<div class="row">-->
 		<!-- Please don't delete this line-->
-		<div class="col-md-6">
+		<!--<div class="col-md-6">
 			<p class="copyright">
 				&copy; 2014 Based on <a href="https://github.com/gdg-x/zeppelin" target="_blank">Project Zeppelin</a>. Designed and created by <a href="https://plus.google.com/+OlehZasadnyy/about" target="_blank">Oleh Zasadnyy</a> &middot; <a href="http://lviv.gdg.org.ua" target="_blank">GDG Lviv</a>
 			</p>
 		</div>
-	</div>
+	</div>-->
 </footer>
 <!-- End Footer -->

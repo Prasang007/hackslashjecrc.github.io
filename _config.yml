@@ -13,6 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "HackSlash"
 email: "hackslashcommunity@gmail.com"
 description: "Hackslash is a community to bring all aspiring developer in JECRC together."
+baseurl: "/zeppelin"
 baseurl: ""
 url: "https://hackslashjecrc.github.io"
 permalink: "/blog/:title"
@@ -21,12 +22,21 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
+
 organizerName: "HACKSLASH"
 organizerAlternateName: "HACKSLASH"
 organizerDescription: "Hackslash is a community to bring all aspiring developer in JECRC together."
 organizerEmail: "hackslashcommunity@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://hackslashjecrc.github.io"
+
+#organizerName: "GDG Lviv"
+#organizerAlternateName: "Google Developer Group Lviv"
+#organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+#organizerEmail: "lviv@gdg.org.ua"
+#organizerLogo: "/img/seo/organizer-logo.png"
+#organizerLink: "http://lviv.gdg.org.ua/"
+
 
 # Head
 metaKeywords: "event, programming, android, developers, open-source"
@@ -50,6 +60,11 @@ bottomNavigationLinks:
  - {link: "https://join.slack.com/t/jecrccc/shared_invite/MjI5MDcwODEyNjEzLTE1MDMxNTA0NTUtZGUxNzZmOTUzYw", text: "Join Hackslash"}
 rightNavigationButtons:
  - {link: "https://join.slack.com/t/jecrccc/shared_invite/MjI5MDcwODEyNjEzLTE1MDMxNTA0NTUtZGUxNzZmOTUzYw", text: "Become a member"}
+
+# - {link: "https://hackslash.org", text: "Join hackslash"}
+#rightNavigationButtons:
+ #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -172,26 +187,36 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+#- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ - {link: "https://twitter.com/hackslashjecrc", icon: "twitter"}
+# - {link: "https://github.com/hackslashjecrc/hackslashjecrc.github.io/", icon: "github"}
+# - {link: "https://www.instagram.com/hackslashjecrc/", icon: "instagram"}
+# - {link: "https://www.facebook.com/hackslashjecrcc/", icon: "facebook"}
+#twitter_username:     hackslashjecrc
+#github_username:      hackslashjecrc/hackslashjecrc.github.io/
+#instagram_username:    hackslashjecrc/
+#google_plus_username: AleksandarTodorovićr3bl
+#facebook_username:    hackslashjecrcc/
+# - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
    - {link: "https://github.com/hackslashjecrc/hackslashjecrc.github.io", text: "GitHub"}
    - {link: "https://medium.com/hackslash", text: "Medium"}
+   - {link: "https://www.facebook.com/hackslashjecrcc/", text: "Facebook"}
+
  -
+
   title: "Contacts"
   links:
    - {link: "mailto:hackslashcommunity@gmail.com", text: "hackslashcommunity@gmail.com"}
    - {link: "https://join.slack.com/t/jecrccc/shared_invite/MjI5MDcwODEyNjEzLTE1MDMxNTA0NTUtZGUxNzZmOTUzYw", text: "Join Slack Channel"}
 
  -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+#  title: "FAQ"
+#  links:
+#   - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
@@ -203,6 +228,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
+
 aboutUs: "HACKSLASH is collective identity of a bunch of undergrads from JECRC Jaipur united by our love for <b>programming</b>.<br> We believe in learning (by doing), sharing (our knowledge and skills as we learn) , contributing (open-source) and developing (our own projects). <br>As common are our vision and interests, we're people with varying skills-sets and domains."
 directionDetailsWideCards:
  -

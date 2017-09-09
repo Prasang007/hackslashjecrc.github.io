@@ -38,6 +38,18 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/adityakaushik01"}
 
 -
+  id: Aishwarya
+  name: "Aishwarya"
+  surname: "Bansal"
+  title: "Team Member"
+  thumbnailUrl: aishwarya.jpg
+  subTeam: true
+  social:
+    - {name: "github", link: "https://github.com/aish51197"}
+    - {name: "facebook", link: "https://www.facebook.com/aish51197"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/aishwarya-bansal-3aa6a3129"}
+
+-
   id: Akash
   name: "Akash"
   surname: "Lakhera"
@@ -166,6 +178,18 @@
     - {name: "twitter", link: "https://twitter.com/samyak360_jain"}
     - {name: "github", link: "https://github.com/samyak360"} 
     - {name: "facebook", link: "https://www.facebook.com/ samyak360"}
+
+-
+  id: Soumil
+  name: "Soumil"
+  surname: "Khandelwal"
+  title: "Team Member"
+  thumbnailUrl: Soumil.jpg
+  subTeam: true
+  social:
+    - {name: "github", link: "https://github.com/soumilk"} 
+    - {name: "facebook", link: "https://www.facebook.com/soumil.khandelwal"}    
+
 -
   id: Yukti
   name: "Yukti"
